@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-    siteName: "Goindex", // 网站名称
+    siteName: "Saam's Files", // 网站名称
     version: "1.1.2", // 程序版本
     theme: "acrou",
     // 强烈推荐使用自己的 client_id 和 client_secret
@@ -50,8 +50,8 @@ var authConfig = {
           user: "",
           pass: "",
           protect_file_link: false,
-          client_id: '',
-          client_secret: '',
+          client_id: '1039838814876-acj3hdgqpd9emffes82246thg0ljsu4q.apps.googleusercontent.com',
+          client_secret: 'mRl9az8T7qioSZ4hbiC0QSDZ',
           refresh_token: ''
         },
         {
